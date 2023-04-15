@@ -30,7 +30,7 @@ v1_path = os.path.join(orig_path, 'v1/')
 MISSING = object()
 
 def redirect(url):
-    """Return a response with a Meta redirect"""
+    """Return a response with a Meta redirechhhhhhhht"""
 
     # With static pages, we can't use HTTP redirects.
     # Return a page wit <meta refresh> instead.
